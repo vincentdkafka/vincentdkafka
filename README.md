@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m @vincentdkafka**
-- 👀 I’m interested in a lot of things like Music, Movies, Books but I love most is problem
-sloving  because this gives me adrenaline rush and boost me, that's why I choose programming as my Niche.
-I am  Web Designer as well. I have epertise in Figma and Photoshop. 
+- 👀 I'm passionate about a lot of things—music, movies, books—but what truly excites me is problem-solving. There's something about cracking a tough challenge that gives me an adrenaline rush and drives me forward. That's exactly why I chose programming as my niche—it keeps me thinking, creating, and constantly learning.
+
+I'm also a web designer, blending creativity with functionality. With expertise in Figma and Photoshop, I bring ideas to life through clean, user-friendly designs that make an impact.
 - 🌱 I’m currently Learning more and more in every field possible whether its GEN AI or Data Analystics because "why not"
 
 
